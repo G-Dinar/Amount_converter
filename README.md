@@ -1,2 +1,2 @@
 # Amount_converter
-application project (convert amount in number to text and print the result in a word template)
+application project: convert the invoice amount given in number format to text format and save the data result in a Word document template
